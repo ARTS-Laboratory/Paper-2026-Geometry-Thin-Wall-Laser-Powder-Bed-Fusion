@@ -1,4 +1,4 @@
-<img width="138" height="31" alt="image" src="https://github.com/user-attachments/assets/694f8d2a-123e-4522-b9c3-48979c7765aa" /># Paper-2026-Geometry-Thin-wall-Laser-Powder-Bed-Fusion
+# Paper-2026-Geometry-Thin-wall-Laser-Powder-Bed-Fusion
 Data and paper that goes along with the 2026 ASME-SMASIS paper "In-situ Layer-wise Geometry Extraction Of Thin-wall 316l Structures Fabricated By Laser Powder Bed Fusion".
 
 
