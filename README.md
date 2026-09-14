@@ -23,7 +23,7 @@ Cite as:
 ```
 
 <p align="center">
-<img src="docs/media/QR-code.png" alt="KRISP-U repository QR code" width="200"/>
+<img src="media/QR-for-ARTS-Laboratory.png" alt="repository QR code" width="200"/>
 </p>
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
