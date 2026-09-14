@@ -24,8 +24,6 @@ Cite as:
 
 <p align="center">
 <img src="media/QR-for-ARTS-Laboratory.png" alt="repository QR code" width="200"/>
+QR code for the repository.
 </p>
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
